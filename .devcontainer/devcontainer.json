@@ -13,18 +13,3 @@
     },
     "postCreateCommand": "uv pip install fastapi"
 }
-{
-    "name": "ga2-a30e75",
-    "features": {
-        "ghcr.io/devcontainers/features/python:1": {}
-    },
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "astral-sh.uv",
-                "ms-python.python"
-            ]
-        }
-    },
-    "postCreateCommand": "uv pip install fastapi"
-}
